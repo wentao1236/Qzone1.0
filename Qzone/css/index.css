@@ -1,0 +1,23 @@
+body{font-family: 宋体;}
+
+
+
+#top{height: 41px;display: block;width: 100%;background: #000;}
+#maintop{width: 960px;margin: 0 auto;height: 41px;}
+#maintop ul{float: left;position: relative;}
+#topR{width: 11px;height: 41px;display: block;position: absolute;right: 10px;top: 10px;}
+.topR{background-image: url("images/icenter-jan140807095541.png");background-position: -337px -85px;width: 11px;height: 9px;cursor: pointer;display: inline-block;margin-top: 6px;}
+.z{float: left;width: 90px;height: 41px;background-image: url("images/icenter.32-jan140807095541.png");background-position: -62px 0;display: block;}
+.toplist{float: left;position: relative;height: 41px;padding-left: 20px;width: 91px;display: block;}
+.geren{width: 16px;height: 16px;display: block;background-image: url("images/all.png");background-position: -740px -50px;margin-top: 12px;float: left;}
+.name{padding-left: 10px;text-decoration: none;color: #fff;font-weight: bold;font-size: 12px;line-height: 40px;cursor: pointer;}
+.toplist2{float: left;position: relative;height: 41px;padding-left: 10px;width: 101px;display: block;}
+.zhuye{width: 16px;height: 16px;display: block;background-image: url("images/all.png");background-position: -740px -100px;margin-top: 12px;float: left;}
+
+
+
+
+
+
+
+
